@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ligmabowls
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning cs50
+- 💞️ I’m looking to collaborate on studying coding
+- 📫 How to reach me just sent me a msg
